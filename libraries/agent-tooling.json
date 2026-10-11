@@ -1,0 +1,38 @@
+{
+  "globalSkillsRoot": "C:/ProgramData/AI-Skills/skills",
+  "globalAgentsRoot": "C:/ProgramData/AI-Skills/agents",
+  "recommendedLibraries": {
+    "frontend": [
+      "react-native",
+      "expo",
+      "@expo/vector-icons",
+      "react-navigation",
+      "zustand",
+      "@tanstack/react-query"
+    ],
+    "backend": [
+      "express",
+      "cors",
+      "dotenv",
+      "jsonwebtoken",
+      "zod"
+    ],
+    "database": [
+      "prisma",
+      "sqlite3",
+      "postgres",
+      "mongoose"
+    ],
+    "review-test": [
+      "vitest",
+      "jest",
+      "@testing-library/react-native",
+      "typescript"
+    ]
+  },
+  "notes": [
+    "This repository is currently an Expo React Native app.",
+    "The frontend agent should own UI and user flow work.",
+    "Backend, database, and review/test agents are prepared as project roles even if not all are active in this repo yet."
+  ]
+}
