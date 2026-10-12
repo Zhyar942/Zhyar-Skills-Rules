@@ -80,3 +80,58 @@ Mirrored to: `C:\Users\lenovo\.gemini\config\skills`
 - **`ponytail`**: Enforces minimal, shortest, dependency-light software architecture.
 - **`using-superpowers`**: Enforces early skill activation before performing complex procedures.
 
+
+### 7. Content, Social Media & Brand Marketing (content/)
+- **b-hook-tester**: Generates two distinct hook variants for the same reel to A/B test which opening wins.
+- **gent-reach**: Internet research, search, trend tracking, and creator outreach on X / Instagram / Web.
+- **i-brain**: Permanent searchable long-term memory for brand strategies and content ideas.
+- **nalytics-readout**: Reads reel & post insights and provides clear guidance on what to scale and what to cut.
+- **udience-personas**: Evidence-led social audience personas from interviews, comments, and reviews.
+- **est-time-scheduler**: Optimal posting times and weekly cadence aligned with audience activity windows.
+- **io-profile-optimizer**: High-converting bio, name field, link-in-bio, and pinned-post optimization.
+- **-roll-shot-list**: Shoot-ready B-roll and visual shot lists organized in chronological filming order.
+- **campaign-brief**: Strategic social campaign briefs covering objectives, deliverables, and KPIs.
+- **caption-and-hashtags**: High-converting captions, curated hashtag sets, and engaging first comments.
+- **carousel-builder**: High-retention multi-slide carousels with hook slides and conversion CTAs.
+- **collab-outreach**: Personalized outreach pitches for creator collaborations, shoutouts, and brand partnerships.
+- **comment-mining**: Mines comments and DMs to extract audience objections, FAQ topics, and content ideas.
+- **comment-responder**: High-touch, authentic comment and lead-generation response workflows.
+- **community-engagement-plan**: Structured engagement routines across target niche accounts and communities.
+- **competitor-positioning**: Compares competitor messaging to find white-space differentiation angles.
+- **competitor-teardown**: Reverse-engineers top competitor accounts, best-performing hooks, and content formats.
+- **content-audit**: Deep audit of past 30-90 posts to identify winning themes, dead weight, and gaps.
+- **content-calendar**: 2-4 week structured content calendar with formats, hooks, and daily posting schedules.
+- **content-factory**: End-to-end viral reel production pipeline from concept and script to publishing.
+- **content-pillar-builder**: Core brand pillars, sub-topics, and repeatable thematic content clusters.
+- **content-repurposer**: Transforms long-form content (blogs, podcasts, videos) into 10+ platform assets.
+- **content-research**: Validates ideas, gathers facts, statistics, and real-world examples for authoritative posts.
+- **cover-thumbnail-brief**: High-CTR thumbnail designs, typography treatments, and visual briefs.
+- **creator-outreach**: Direct messages and email templates for influencer partnerships and creator gifting.
+- **cross-platform-distribution**: Orchestrates simultaneous multi-platform publishing schedules and adaptations.
+- **cross-platform-reformatter**: Re-formats one master asset for LinkedIn, X/Twitter, IG, TikTok, and YouTube.
+- **cta-writer**: High-conversion calls-to-action tailored for comments, saves, shares, bios, and links.
+- **dm-script-writer**: Conversational, non-spammy direct message scripts to nurture leads into customers.
+- **going-viral**: High-velocity virality mechanics, psychological triggers, and shareability engineering.
+- **hashtag-keyword-research**: SEO-optimized social search keywords and tiered hashtag grouping strategies.
+- **hook-mining**: Extracts high-performing hooks and patterns from top viral content across industries.
+- **influencer-partnerships**: End-to-end influencer negotiation, briefing, contracts, and ROI tracking.
+- **launch-retrospective**: Post-launch performance review, metrics analysis, and key takeaways for next launches.
+- **linkedin-thought-leadership**: High-authority personal branding posts, founder stories, and frameworks for LinkedIn.
+- **on-screen-text-writer**: High-retention on-screen typography, captions, and visual pacing for short-form video.
+- **paid-social-brief**: Performance creative briefs for Meta Ads, TikTok Ads, and boosted posts.
+- **positioning-audit**: Audits brand clarity, value proposition, and market differentiation against competitors.
+- **profile-conversion-audit**: End-to-end profile funnel audit optimizing visitor-to-follower and visitor-to-lead rate.
+- **eel-analyzer**: Frame-by-frame breakdown of reels to diagnose retention drops and optimize pacing.
+- **eel-builder**: Full short-form video assembly blueprint with timing, transitions, and audio cues.
+- **eel-scripter**: Word-for-word 30-60s scripts with 3-second visual hooks, body value, and conversion payoff.
+- **series-planner**: Multi-part episodic series frameworks that turn casual viewers into dedicated subscribers.
+- **social-analytics-report**: Executive performance reports analyzing reach, engagement, follower growth, and ROI.
+- **social-listening**: Monitors industry trends, customer pain points, and viral discussions.
+- **social-proof-mining**: Converts testimonials, client wins, and reviews into high-impact case study content.
+- **story-sequencer**: Multi-frame Instagram/Facebook story arcs designed for high engagement and DM replies.
+- **	rend-spotter**: Identifies breakout audio, formats, and conversational trends before they peak.
+- **ugc-creator-brief**: Clear creator instructions and shot lists for user-generated content creators.
+- **utm-campaign-plan**: Clean link tracking structure for measuring social traffic and conversion attribution.
+- **iral-carousel**: Educational and story-driven carousels engineered for maximum saves and shares.
+- **iral-hook-writer**: Generates 10+ psychology-backed opening hooks for any topic or video concept.
+- **x-thread-strategy**: Viral X/Twitter threads with compelling openers, structured insights, and CTA closes.
