@@ -135,3 +135,41 @@ Mirrored to: `C:\Users\lenovo\.gemini\config\skills`
 - **iral-carousel**: Educational and story-driven carousels engineered for maximum saves and shares.
 - **iral-hook-writer**: Generates 10+ psychology-backed opening hooks for any topic or video concept.
 - **x-thread-strategy**: Viral X/Twitter threads with compelling openers, structured insights, and CTA closes.
+
+### 8. AI Marketing & Revenue Operations (marketing-ops/)
+- **gentic-video-understanding**: Goal-directed moment, quote, objection, and hook extraction from long videos and audio via Gemini.
+- **utoresearch**: Karpathy-style optimization loops for conversion copy, landing pages, and ads with 50+ variant scoring.
+- **clone-site**: Reverse-engineers any website into a pixel-perfect Next.js replica with assets, typography, and responsive layouts.
+- **closed-loop-analytics-upgrade**: Upgrades marketing, SEO, and revenue pipelines to be evaluated on verified platform metrics.
+- **content-eval**: Evaluates and scores content ideas with an automated expert panel using transcripts and competitor data.
+- **content-ops**: Quality gate and expert review panel ensuring high-scoring, multi-round evaluated marketing copy.
+- **conversion-ops**: Conversion rate optimization (CRO) audits, landing page scoring, and survey-to-lead-magnet engines.
+- **deck-generator**: High-converting pitch decks and presentations generated with custom visual styling and slide structuring.
+- **inance-ops**: AI CFO financial intelligence, cost modeling, P&L briefings, and revenue growth scenario planning.
+- **growth-engine**: Autonomous marketing experimentation framework with hypothesis testing and automated statistical winner promotion.
+- **growth-signal-charts**: Data-driven, branded chart posts for Instagram, X, and LinkedIn based on primary metrics and research.
+- **lead-dossier**: Deep multi-source prospect research, tech stack discovery, and intelligence dossiers for sales teams.
+- **leveling-up-content-engine**: Comprehensive video workflow for moment selection, editing guidelines, and multi-format packaging.
+- **
+et-new-video-editor**: Transforms talking-head footage into polished vertical video drafts with captions and hook cards.
+- **outbound-engine**: End-to-end cold outbound email campaign architect with ICP targeting, sequence optimization, and deliverability.
+- **packaging-youtube-thumbnails**: Evidence-backed YouTube title-and-thumbnail packaging engine and CTR optimization.
+- **personal-strategic-signal-intelligence**: Turns private bookmarks, notes, and research into strategic decision frameworks.
+- **podcast-ops**: Repurposes single podcast episodes into 20+ multi-platform content assets across video, text, and graphics.
+- **evenue-intelligence**: Sales call analysis, content-to-revenue attribution, and executive reporting linking content to deals.
+- **sales-pipeline**: Automates visitor identification, intent qualification, lead routing, and dead-deal resurrection.
+- **sales-playbook**: Value-based pricing models, pre-call strategy dossiers, and proposal packagers to scale deal sizes.
+- **seo-ops**: Search engine intelligence, keyword gap detection, Search Console optimization, and AI answer engine ranking.
+- **short-form-pipeline**: Cuts long YouTube episodes into viral clips for Reels, TikTok, and Shorts with vertical reframing and captions.
+- **shortform-format-library**: Curated library of proven visual formats and recording outlines for short-form video creators.
+- **shortform-idea-grill**: Rigorous ideation interview that tests, scores, and ranks short-form video concepts before filming.
+- **shortform-production**: End-to-end production pipeline delivering approved short-form video clips directly through APIs.
+- **show-and-tell-video-slate**: Packages tangible builds and case studies into ranked 15-minute video episodes before filming.
+- **sidebar-prioritizer**: Operational queue prioritization system organizing marketing tasks by urgency and impact.
+- **	eam-ops**: Performance audit system applying first-principles efficiency and automated action extraction from meetings.
+- **ideo-analysis**: Inspects transcripts, demo pacing, and video timing for optimization and clip boundaries.
+- **ideo-caption-generator**: High-accuracy video caption generation and stylization for social engagement.
+- **ideo-clip-pipeline**: Automates long-form video highlight extraction, audio cleanup, cutting, and export.
+- **ideo-content-engine**: Diagnoses full videos and maps them into optimized tutorials, case studies, or shorts portfolios.
+- **x-longform-post**: Authoritative long-form X/Twitter posts and threads with anti-AI slop humanizer validation.
+- **yt-competitive-analysis**: Reverse-engineers outlier YouTube videos, packaging patterns, and channel benchmarks.
