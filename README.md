@@ -54,6 +54,7 @@ Mirrored to: `C:\Users\lenovo\.gemini\config\skills`
 ### 5. Video & Media Production (`video-production/`)
 - **`captions-overlay`**: Drop/rail/embed subtitle compositing and typography overlays.
 - **`changelog-video`**: Transforms markdown release notes into branded motion launch videos.
+- **`cinetic`**: Direct, score, and render premium cinematic launch films, product loops, kinetic type, and UI walkthroughs with Remotion or HyperFrames.
 - **`contentcore`** *(ContentCore.xyz)*: Fast 3D product reveals, social Reels/Shorts motion templates, and Three.js staging.
 - **`embedded-captions`**: High-impact talking-head captions and VFX subtitles.
 - **`faceless-explainer`**: Converts arbitrary articles or briefs into motion graphic explainers.
@@ -70,8 +71,10 @@ Mirrored to: `C:\Users\lenovo\.gemini\config\skills`
 - **`motion-graphics`**: Short design-led motion graphic bursts (stats, callouts, titles).
 - **`music-to-video`**: Beat-synchronized video slideshows driven by audio transients.
 - **`pr-to-video`**: Turns GitHub pull requests and diffs into code-walkthrough videos.
+- **`product-film`**: Showreel-grade product films, landing-page video loops, and launch videos in code with Remotion.
 - **`product-launch-video`**: SaaS promo and marketing product launch videos.
 - **`remotion-to-hyperframes`**: Migration adapter from React Remotion to HyperFrames.
+- **`session-story`**: Animated storytelling film of user-agent working sessions with paper planes, sound cues, and p5.brush art in HyperFrames.
 - **`slideshow`**: Interactive presentations and pitch decks with presenter notes.
 - **`talking-head-recut`**: Packages interviews with synced dynamic graphic overlay cards.
 

@@ -1,0 +1,11 @@
+{
+  "name": "cinetic",
+  "version": "1.0.0",
+  "description": "Direct, score and render launch films, product videos, feature loops, logo stings and UI walkthroughs with Remotion or HyperFrames.",
+  "author": {
+    "name": "Leonxlnx"
+  },
+  "homepage": "https://github.com/Leonxlnx/cinetic",
+  "repository": "https://github.com/Leonxlnx/cinetic",
+  "license": "MIT"
+}
