@@ -8,13 +8,21 @@ Mirrored to: `C:\Users\lenovo\.gemini\config\skills`
 ## Skills by Category
 
 ### 1. Frontend (`frontend/`)
+- **`antislop`**: Anti Slop core filter stopping generic AI slop in generated UI, copy, and code.
+- **`antislop-code`**: Code comment hygiene for AI coding agents: clean generic commentary.
+- **`antislop-copywriting`**: Copy & text anti-AI writing patterns, headlines, CTAs, and tone.
+- **`antislop-human`**: Accessibility, color contrast, keyboard navigation, and interaction states.
+- **`antislop-layoutmobile`**: Mobile responsive layouts, adaptive grids, overflow, and tap targets.
+- **`antislop-ui`**: UI visual anti-slop guidelines: color, layout, components, and motion.
 - **`ask-sonner`**: Complete guide to the Sonner toast library, styling, positioning, and recipes.
-- **`design-taste-frontend`**: Anti-slop frontend craftsmanship for landing pages and redesigns.
+- **`design-taste-frontend`**: tasteskill v2 anti-slop frontend craftsmanship for landing pages, web apps, and redesigns.
 - **`frontend-design`**: Distinctive, intentional visual design and aesthetic direction.
 - **`gpt-taste`**: Elite UX/UI & advanced GSAP motion engineer with strict AIDA structure.
 - **`image-to-code`**: Elite website image-to-code conversion from section-specific design comps.
 - **`imagegen-frontend-mobile`**: Mobile app UI image-generation skill for iOS, Android, and cross-platform.
 - **`imagegen-frontend-web`**: Section-by-section website design comp generation.
+- **`impeccable`**: Design director craft: hierarchy, layout, typography, color, motion, tokens, DESIGN.md.
+- **`oil-ui`**: Design exploration, multi-style comparison pages, and visual hierarchy polish.
 - **`pick-ui-library`**: Curated, taste-driven library selection for numbers, toasts, charts, menus.
 - **`prototype`**: Multi-variant interactive UI prototyping with instant live switchers.
 - **`shaders`** *(shaders.com)*: WebGPU/WebGL shader design platform, TypeGPU integration, MCP tools, and 750+ presets.
@@ -54,7 +62,6 @@ Mirrored to: `C:\Users\lenovo\.gemini\config\skills`
 ### 5. Video & Media Production (`video-production/`)
 - **`captions-overlay`**: Drop/rail/embed subtitle compositing and typography overlays.
 - **`changelog-video`**: Transforms markdown release notes into branded motion launch videos.
-- **`cinetic`**: Direct, score, and render premium cinematic launch films, product loops, kinetic type, and UI walkthroughs with Remotion or HyperFrames.
 - **`contentcore`** *(ContentCore.xyz)*: Fast 3D product reveals, social Reels/Shorts motion templates, and Three.js staging.
 - **`embedded-captions`**: High-impact talking-head captions and VFX subtitles.
 - **`faceless-explainer`**: Converts arbitrary articles or briefs into motion graphic explainers.
@@ -71,10 +78,8 @@ Mirrored to: `C:\Users\lenovo\.gemini\config\skills`
 - **`motion-graphics`**: Short design-led motion graphic bursts (stats, callouts, titles).
 - **`music-to-video`**: Beat-synchronized video slideshows driven by audio transients.
 - **`pr-to-video`**: Turns GitHub pull requests and diffs into code-walkthrough videos.
-- **`product-film`**: Showreel-grade product films, landing-page video loops, and launch videos in code with Remotion.
 - **`product-launch-video`**: SaaS promo and marketing product launch videos.
 - **`remotion-to-hyperframes`**: Migration adapter from React Remotion to HyperFrames.
-- **`session-story`**: Animated storytelling film of user-agent working sessions with paper planes, sound cues, and p5.brush art in HyperFrames.
 - **`slideshow`**: Interactive presentations and pitch decks with presenter notes.
 - **`talking-head-recut`**: Packages interviews with synced dynamic graphic overlay cards.
 
