@@ -69,12 +69,19 @@ When the user or agent completes a task, generate and record the **Completion Do
 ## 3. MCP Connection & Authentication Details
 
 - **MCP Endpoint**: `https://workroom.qaico.ai/mcp`
-- **Auth Provider**: Supabase Edge Runtime (`https://syrwtxnddwkzdyknelma.supabase.co/auth/v1`)
-- **Transport**: HTTP / Server-Sent Events (SSE)
-- **Authentication**: When calling the MCP endpoint, pass standard Bearer token authorization:
-  ```json
-  "headers": {
-    "Authorization": "Bearer <YOUR_WORKROOM_JWT_TOKEN>"
-  }
-  ```
-  If prompted by the Antigravity or editor interface, sign in via the browser OAuth prompt or set `WORKROOM_TOKEN` in your environment.
+- **Auth Provider**: Supabase OAuth 2.1 PKCE (`https://syrwtxnddwkzdyknelma.supabase.co/auth/v1`)
+- **Transport**: Stdio Proxy (`node ~/.gemini/workroom-mcp/proxy.mjs`) forwarding to Streamable HTTP
+- **One-Command Login**: Run `workroom-login` from any terminal to authenticate via OAuth browser consent.
+- **Token Storage**: Credentials and refresh tokens are stored in `~/.gemini/workroom-mcp/token.json` and automatically refreshed by the proxy before expiration.
+- **Configured Servers**:
+  - Global Antigravity: `~/.gemini/config/mcp_config.json`
+  - Workspace: `.agents/mcp_config.json`, `.cursor/mcp.json`, `.vscode/mcp.json`
+
+## 4. Available MCP Tools (38 Tools)
+- **Account & Identity**: `whoami`, `list_people`, `list_notifications`, `list_pending_actions`
+- **Tasks**: `list_tasks`, `get_task`, `create_task`, `edit_task`, `delete_task`, `complete_task`, `assign_task`
+- **Timers & Sessions**: `start_task_timer`, `stop_task_timer`, `set_work_session`
+- **Subtasks**: `add_subtask`, `remove_subtask`, `complete_subtask`, `reopen_subtask`, `set_subtask_team`
+- **Projects**: `list_projects`, `get_project`, `create_project`, `update_project`, `archive_project`, `list_project_members`
+- **Discussion & Collab**: `list_task_comments`, `post_task_comment`, `invite_task_collaborator`, `remove_task_collaborator`, `respond_to_invitation`, `request_task_edit`, `review_edit_request`, `list_edit_requests`
+- **KPI & Leave**: `save_my_kpi`, `list_reviews`, `list_time_off`, `request_time_off`, `cancel_time_off`

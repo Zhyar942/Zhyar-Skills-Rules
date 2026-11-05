@@ -31,6 +31,7 @@ Mirrored to: `C:\Users\lenovo\.gemini\config\skills`
 - **`web-design-reviewer`**: Visual inspection and automated fixes for responsive and layout bugs.
 
 ### 2. Backend & Systems (`backend/`)
+- **`craft-anything`**: Investigate how shipped software works (programs, apps, packages, firmware, web bundles) with evidence-backed answers through Craft Anything MCP tools.
 - **`full-output-enforcement`**: Enforces complete, unabridged code generation and token split handling.
 - **`graphify`**: Codebase knowledge graph analysis, AST dependency extraction, and semantic queries.
 - **`playwright-cli`**: Browser automation and end-to-end testing with Playwright.
@@ -87,6 +88,7 @@ Mirrored to: `C:\Users\lenovo\.gemini\config\skills`
 - **`find-skills`**: Discovers and recommends installable agent skills for user workflows.
 - **`ponytail`**: Enforces minimal, shortest, dependency-light software architecture.
 - **`using-superpowers`**: Enforces early skill activation before performing complex procedures.
+- **`workroom`**: Workroom enterprise task tracker integration for logging tasks, work sessions, timers, and completion dossiers.
 
 
 ### 7. Content, Social Media & Brand Marketing (content/)
